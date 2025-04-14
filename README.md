@@ -46,5 +46,7 @@ Bu uygulama, yazılım yetkinliklerimi, projelerimi ve deneyimlerimi modern, ş�
 
 ## 📷 Ekran Görüntüleri
 
+![Image](https://github.com/user-attachments/assets/680930af-1f81-432b-bd3c-78fd84be13da)
+
 
 
