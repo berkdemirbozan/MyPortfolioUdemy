@@ -48,5 +48,7 @@ Bu uygulama, yazılım yetkinliklerimi, projelerimi ve deneyimlerimi modern, ş�
 
 ![Image](https://github.com/user-attachments/assets/680930af-1f81-432b-bd3c-78fd84be13da)
 
+![Image](https://github.com/user-attachments/assets/291952c5-092e-4019-8480-f3b88689bded)
+
 
 
