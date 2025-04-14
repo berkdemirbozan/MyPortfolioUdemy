@@ -10,7 +10,7 @@ namespace MyPortfolioUdemy.ViewComponents.LayoutViewComponents
         {
             ViewBag.toDoListCount = context.ToDoLists.Where(x=> x.Status == false).Count();
             var values = context.ToDoLists.Where(x=> x.Status == false).ToList();
-            return View();
+            return View(values);
         }
     }
 }
